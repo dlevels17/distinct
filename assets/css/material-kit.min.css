@@ -7456,11 +7456,12 @@ legend {
     outline: 0
 }
 a {
-    color: #9c27b0
+    color: #062f6e;
+	text-decoration: none;
 }
 a:focus, a:hover {
-    color: #89229b;
-    text-decoration: none
+    color: #0098D5;
+    text-decoration: underline;
 }
 a.text-info:focus, a.text-info:hover {
     color: #00a5bb
