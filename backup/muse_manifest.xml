@@ -1,0 +1,71 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="distinctlevels.com" resolutions="1x" timestamp="1519967578033">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4170180299" ref="index:mission:local-development-marketing:search-engine-optimization:social-media-marketing:visual-brand-development:contact:services:website-develoment"/>
+    <file name="index.css" crc="3760405944" ref="index"/>
+    <file name="mission.css" crc="106591667" ref="mission"/>
+    <file name="local-development-marketing.css" crc="4138540017" ref="local-development-marketing"/>
+    <file name="search-engine-optimization.css" crc="3942569100" ref="search-engine-optimization"/>
+    <file name="social-media-marketing.css" crc="4253444220" ref="social-media-marketing"/>
+    <file name="visual-brand-development.css" crc="3840103790" ref="visual-brand-development"/>
+    <file name="contact.css" crc="3958122638" ref="contact"/>
+    <file name="services.css" crc="423149348" ref="services"/>
+    <file name="website-develoment.css" crc="381876214" ref="website-develoment"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="museutils.js" crc="3803043152" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="museconfig.js" crc="380897831" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="require.js" crc="4157109226" ref="index:mission:services:search-engine-optimization:contact:website-develoment:local-development-marketing:visual-brand-development:social-media-marketing"/>
+    <file name="webpro.js" crc="242022427" ref="contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u1097.php" crc="35645169" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home page banner.jpg" crc="423312678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u410-44.png" crc="3760842432" ref="index"/>
+    <file name="mission page banner.jpg" crc="3853788604" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="u419-10.png" crc="3997628718" ref="mission"/>
+    <file name="services banner.jpg" crc="398014817" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u422-77.png" crc="449544733" ref="services"/>
+    <file name="brand.jpg" crc="421926987" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="seo services .jpg" crc="326534309" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u425-48.png" crc="3961938350" ref="search-engine-optimization"/>
+    <file name="seo banner.jpg" crc="206728216" seo="true" ref="search-engine-optimization">
+      <caption webpage="search-engine-optimization" alt=""/>
+    </file>
+    <file name="website development.jpg" crc="3997859173" seo="true" ref="website-develoment">
+      <caption webpage="website-develoment" alt=""/>
+    </file>
+    <file name="u431-26.png" crc="3966920086" ref="local-development-marketing"/>
+    <file name="video page.jpg" crc="165114804" seo="true" ref="visual-brand-development">
+      <caption webpage="visual-brand-development" alt=""/>
+    </file>
+    <file name="u939-28.png" crc="298272118" ref="visual-brand-development"/>
+  </folder>
+  <file name="index.html" crc="133857586" seo="true" mt="1519962595312" redirect="true"/>
+  <file name="mission.html" crc="379028507" seo="true" mt="1519962595312" redirect="true"/>
+  <file name="services.html" crc="4118359135" seo="true" mt="1519962640864" redirect="true"/>
+  <file name="search-engine-optimization.html" crc="4177700049" seo="true" mt="1519962595312" redirect="true"/>
+  <file name="contact.html" crc="4042327941" seo="true" mt="1519962595312" redirect="true"/>
+  <file name="website-develoment.html" crc="170264633" seo="true" mt="1519965501019" redirect="true"/>
+  <file name="local-development-marketing.html" crc="474651420" seo="true" mt="1519962595312" redirect="true"/>
+  <file name="visual-brand-development.html" crc="3785379705" seo="true" mt="1519962595312" redirect="true"/>
+  <file name="social-media-marketing.html" crc="3981635450" seo="true" mt="1519962595312" redirect="true"/>
+</manifest>
