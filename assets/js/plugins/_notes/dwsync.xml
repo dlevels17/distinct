@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="bootstrap-tagsinput.js" server="ftp.distinctlevels.com" local="131745143554719024" remote="131745116400000000" Dst="2" />
-<file name="bootstrap-selectpicker.js" server="ftp.distinctlevels.com" local="131745143554679019" remote="131745116400000000" Dst="2" />
-<file name="bootstrap-datetimepicker.min.js" server="ftp.distinctlevels.com" local="131745143554679019" remote="131745116400000000" Dst="2" />
-<file name="jasny-bootstrap.min.js" server="ftp.distinctlevels.com" local="131745143554719024" remote="131745116400000000" Dst="2" />
-<file name="jquery.flexisel.js" server="ftp.distinctlevels.com" local="131745143554719024" remote="131745116400000000" Dst="2" />
-<file name="nouislider.min.js" server="ftp.distinctlevels.com" local="131745143554759002" remote="131745116400000000" Dst="2" />
-<file name="moment.min.js" server="ftp.distinctlevels.com" local="131745143554759002" remote="131745116400000000" Dst="2" />
+<file name="bootstrap-tagsinput.js" server="ftp.distinctlevels.com" local="131730843318287337" remote="131764170000000000" Dst="2" />
+<file name="bootstrap-selectpicker.js" server="ftp.distinctlevels.com" local="131730845101046239" remote="131764170000000000" Dst="2" />
+<file name="bootstrap-datetimepicker.min.js" server="ftp.distinctlevels.com" local="131730845100377511" remote="131764170000000000" Dst="2" />
+<file name="jasny-bootstrap.min.js" server="ftp.distinctlevels.com" local="131730843340324868" remote="131764170000000000" Dst="2" />
+<file name="jquery.flexisel.js" server="ftp.distinctlevels.com" local="131730845101764307" remote="131764170000000000" Dst="2" />
+<file name="nouislider.min.js" server="ftp.distinctlevels.com" local="131730844159355159" remote="131764170000000000" Dst="2" />
+<file name="moment.min.js" server="ftp.distinctlevels.com" local="131730844751259492" remote="131764170000000000" Dst="2" />
+<file name="bs-datepicker.min.js" server="ftp.distinctlevels.com" local="131730845100377511" remote="131764170000000000" Dst="2" />
+<file name="bs-selectpicker.js" server="ftp.distinctlevels.com" local="131730845101046239" remote="131764170000000000" Dst="2" />
+<file name="bs-tags.js" server="ftp.distinctlevels.com" local="131730843318287337" remote="131764170000000000" Dst="2" />
+<file name="jydl-bs.min.js" server="ftp.distinctlevels.com" local="131730843340324868" remote="131764170000000000" Dst="2" />
+<file name="slider.min.js" server="ftp.distinctlevels.com" local="131730844159355159" remote="131764170000000000" Dst="2" />
 </dwsync>
