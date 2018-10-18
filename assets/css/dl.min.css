@@ -2,7 +2,7 @@
  *
  * ========================================================= */
 .card {
-    font-size: .875rem
+    font-size: 1rem;
 }
 
 @media print {
@@ -9507,7 +9507,7 @@ html * {
     font-weight: 500
 }
 p {
-    font-size: 14px;
+    font-size: 16px;
     margin: 0 0 10px
 }
 b {
